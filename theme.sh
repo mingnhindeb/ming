@@ -12,3 +12,4 @@ wget https://www.dropbox.com/s/z87ak4bzxbl77st/MingVPN.tgz && tar zxvf MingVPN.t
 mv asset /home/panel/html
 mv view /home/panel/html
 echo "Enjoy using ming VPN Theme - By : Ming"
+echo "Meow :3"
